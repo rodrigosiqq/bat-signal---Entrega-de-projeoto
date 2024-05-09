@@ -22,7 +22,7 @@ export const styles = StyleSheet.create({
     Textform:{
       textAlign:'center',
       marginTop:10,
-      fontSize:14,
+      fontSize:12,
       fontWeight:'bold',
     },
     Inputform:{
@@ -32,8 +32,8 @@ export const styles = StyleSheet.create({
     },
     retornar:{
       backgroundColor:'#4b4a4a',    
-      width:150,
-      marginLeft:'25%',
+      width:140,
+      marginLeft: 33,
       padding:8,
       borderRadius:8,
       color:'white',
